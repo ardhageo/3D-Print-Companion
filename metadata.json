@@ -1,0 +1,6 @@
+{
+  "name": "PrintCost - 3D Print Cost Calculator",
+  "description": "Android 3D print cost calculator, maintenance tracker, and print analytics app.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

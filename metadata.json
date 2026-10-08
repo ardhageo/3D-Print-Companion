@@ -1,0 +1,6 @@
+{
+  "name": "PrintCost - 3D Print Cost Calculator",
+  "description": "Offline 3D print cost calculator, statistics, print history, and maintenance tracker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
